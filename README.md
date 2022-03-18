@@ -18,3 +18,4 @@ This should appear on my profile. If you are reading this, (you're probably not)
 I'm currently learning about GitHub and Coding. So... This is the end?
 
 (it's never the end, we'll always KEEP CODING)
+(but until i add something new, it's the end for now)
